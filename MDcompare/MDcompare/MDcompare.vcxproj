@@ -161,6 +161,7 @@
     <ClInclude Include="..\..\api\USTPFtdcUserApiStruct.h" />
     <ClInclude Include="CMDapi.h" />
     <ClInclude Include="CMDspi.h" />
+    <ClInclude Include="ConfigParse.h" />
     <ClInclude Include="Fmdapi.h" />
     <ClInclude Include="Fmdspi.h" />
     <ClInclude Include="OtherFunc.h" />
@@ -170,6 +171,7 @@
   <ItemGroup>
     <ClCompile Include="CMDapi.cpp" />
     <ClCompile Include="CMDspi.cpp" />
+    <ClCompile Include="ConfigParse.cpp" />
     <ClCompile Include="Fmdapi.cpp" />
     <ClCompile Include="Fmdspi.cpp" />
     <ClCompile Include="MDcompare.cpp" />
